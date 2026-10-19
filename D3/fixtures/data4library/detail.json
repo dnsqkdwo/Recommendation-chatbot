@@ -1,0 +1,29 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791141602376",
+      "loaninfoYN": "N",
+      "format": "json"
+    },
+    "detail": [
+      {
+        "book": {
+          "no": 1,
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_date": "2025",
+          "publication_year": "2025",
+          "isbn": "1141602377",
+          "isbn13": "9791141602376",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "description": "소설가 김애란이 『바깥은 여름』 이후 팔 년 만에 새 소설집으로 돌아왔다. 2022 김승옥문학상 우수상을 수상한 「홈 파티」와 2022 오영수문학상 수상작인 「좋은 이웃」을 비롯해 총 일곱 편의 단편이 수록되어 있다.",
+          "bookImageURL": "https://image.aladin.co.kr/product/36566/52/cover200/k462039240_1.jpg"
+        }
+      }
+    ]
+  }
+}

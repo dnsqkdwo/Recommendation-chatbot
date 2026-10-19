@@ -1,0 +1,195 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2026-10-05",
+      "endDt": "2026-10-11",
+      "pageNo": 1,
+      "pageSize": 10,
+      "format": "json"
+    },
+    "resultNum": 10,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36566/52/cover200/k462039240_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7073819",
+          "loan_count": "628"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4086/97/cover/8936434128_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2037399",
+          "loan_count": "577"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36101/66/cover200/893643974x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7035395",
+          "loan_count": "554"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/902/07190270.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1938053",
+          "loan_count": "541"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/37172/36/cover200/k662031678_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7149374",
+          "loan_count": "483"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26942/84/cover/k582730818_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962217",
+          "loan_count": "432"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27587/94/cover/8954681158_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6050062",
+          "loan_count": "419"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173473968",
+          "addition_symbol": "77810",
+          "vol": "19",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/36208/50/cover200/k712038303_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7046196",
+          "loan_count": "415"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "8",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791175484290",
+          "addition_symbol": "77810",
+          "vol": "21",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/37938/93/cover200/k232033352_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7188658",
+          "loan_count": "415"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "프로젝트 헤일메리 ",
+          "authors": "앤디 위어 지음 ;강동혁 옮김",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2021",
+          "isbn13": "9788925588735",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27045/43/cover/8925588730_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5969086",
+          "loan_count": "414"
+        }
+      }
+    ]
+  }
+}
