@@ -52,7 +52,7 @@ yarn install
 
 ## 환경변수
 
-`.env.example`을 복사해 `.env`를 만들고 값을 채웁니다. **`.env`는 커밋하지 않습니다**(`.gitignore`에 포함).
+`.env.example`을 복사해 `.env`를 만들고 값을 채웁니다.
 
 ```bash
 cp .env.example .env
