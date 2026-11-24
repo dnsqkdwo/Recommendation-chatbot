@@ -1,0 +1,47 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "contentid": "3113995",
+            "contenttypeid": "15",
+            "title": "경기‧양주‧지작사 드론봇 페스티벌",
+            "createdtime": "20240417174131",
+            "modifiedtime": "20261019154232",
+            "tel": "031-8082-6161",
+            "telname": "경기도, 양주시, 지상작전사령부",
+            "homepage": "https://www.yangju.go.kr/",
+            "firstimage": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image2_1.JPG",
+            "firstimage2": "https://tong.visitkorea.or.kr/cms/resource/54/4124654_image3_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "areacode": "",
+            "sigungucode": "",
+            "lDongRegnCd": "41",
+            "lDongSignguCd": "630",
+            "lclsSystm1": "EV",
+            "lclsSystm2": "EV01",
+            "lclsSystm3": "EV010600",
+            "cat1": "",
+            "cat2": "",
+            "cat3": "",
+            "addr1": "경기도 양주시 광적면 삼일로 52",
+            "addr2": "가납리비행장",
+            "zipcode": "11419",
+            "mapx": "126.9897980000",
+            "mapy": "37.8335530000",
+            "mlevel": "6",
+            "overview": "경기‧양주‧지작사 드론봇 페스티벌은 경기도, 양주시, 지상작전사령부가 공동 주최하는 민ㆍ관ㆍ군 상생 페스티벌이다. 2026년 10월 30일부터 11월 1일까지 3일간 양주시 광적면 가납리비행장에서 개최된다. 본 축제는 「양주시 드론산업 육성 및 지원에 관한 조례」와 「가납리 비행장 민·관·군 상생발전을 위한 업무협약」을 근거로 서부권 대표 축제를 육성하고, 드론 산업 기반을 마련하여 지역 균형발전을 도모하는 것이 목적이다. 총사업비 612억 원이 투입되며, 육군의 드론봇 전투체계 시연, 주한미군 전투장비 전시, 국내외 첨단 드론·로봇 기업 전시, 드론봇 경연대회, 다채로운 군문화 공연 및 시민 체험 프로그램을 통해 첨단 국방력과 4차 산업의 미래를 조망하는 행사이다."
+          }
+        ]
+      },
+      "numOfRows": 1,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# 평일 16:30 KST 기동 → 17:00 발송
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: recommendation-chatbot
+spec:
+  schedule: "30 16 * * 1-5"
+  timeZone: "Asia/Seoul"
+  concurrencyPolicy: Forbid
+  startingDeadlineSeconds: 300
+  jobTemplate:
+    spec:
+      backoffLimit: 0
+      activeDeadlineSeconds: 2700
+      template:
+        spec:
+          restartPolicy: Never
+          containers:
+            - name: recommendation-chatbot
+              image: registry.slexn.com/mattermost-agent-openplay:0.0.1
+              envFrom:
+                - secretRef:
+                    name: recommendation-chatbot

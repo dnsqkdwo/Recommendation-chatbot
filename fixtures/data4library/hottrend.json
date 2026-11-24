@@ -1,0 +1,316 @@
+{
+  "response": {
+    "request": {
+      "searchDt": "2026-10-25",
+      "format": "json"
+    },
+    "results": [
+      {
+        "result": {
+          "date": "2026-10-25",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 104,
+                "baseWeekRank": 68,
+                "pastWeekRank": 172,
+                "bookname": "한국사 이상현상 연구원 :최인서 소설 ",
+                "authors": "지은이: 최인서",
+                "publisher": "빅피시",
+                "publication_year": "2026",
+                "isbn13": "9791124137635",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/40090/97/cover200/k962130440_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7316990"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 91,
+                "baseWeekRank": 37,
+                "pastWeekRank": 128,
+                "bookname": "이 지랄맞음이 쌓여 축제가 되겠지 :조승리 에세이 ",
+                "authors": "글: 조승리",
+                "publisher": "달 출판사",
+                "publication_year": "2024",
+                "isbn13": "9791158161767",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "818",
+                "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+                "bookImageURL": "https://image.aladin.co.kr/product/33696/25/cover/k962939047_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6854342"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 88,
+                "baseWeekRank": 56,
+                "pastWeekRank": 144,
+                "bookname": "가공범 ",
+                "authors": "지은이: 히가시노 게이고 ;옮긴이: 김선영",
+                "publisher": "교보문고",
+                "publication_year": "2025",
+                "isbn13": "9791170612759",
+                "addition_symbol": "03830",
+                "vol": "",
+                "class_no": "833.6",
+                "class_nm": "문학 > 일본문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/36786/80/cover200/k472030698_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7094855"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 78,
+                "baseWeekRank": 74,
+                "pastWeekRank": 152,
+                "bookname": "밝은 밤 :최은영 장편소설 ",
+                "authors": "지은이: 최은영",
+                "publisher": "문학동네",
+                "publication_year": "2021",
+                "isbn13": "9788954681179",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/27541/91/cover/8954681174_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6045915"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 74,
+                "baseWeekRank": 39,
+                "pastWeekRank": 113,
+                "bookname": "윗집 부부 :황보름 장편소설 ",
+                "authors": "지은이: 황보름",
+                "publisher": "클레이하우스",
+                "publication_year": "2026",
+                "isbn13": "9791193235966",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/39532/5/cover200/k602139634_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7279843"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "result": {
+          "date": "2026-10-24",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 110,
+                "baseWeekRank": 47,
+                "pastWeekRank": 157,
+                "bookname": "이 지랄맞음이 쌓여 축제가 되겠지 :조승리 에세이 ",
+                "authors": "글: 조승리",
+                "publisher": "달 출판사",
+                "publication_year": "2024",
+                "isbn13": "9791158161767",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "818",
+                "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+                "bookImageURL": "https://image.aladin.co.kr/product/33696/25/cover/k962939047_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6854342"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 92,
+                "baseWeekRank": 61,
+                "pastWeekRank": 153,
+                "bookname": "가공범 ",
+                "authors": "지은이: 히가시노 게이고 ;옮긴이: 김선영",
+                "publisher": "교보문고",
+                "publication_year": "2025",
+                "isbn13": "9791170612759",
+                "addition_symbol": "03830",
+                "vol": "",
+                "class_no": "833.6",
+                "class_nm": "문학 > 일본문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/36786/80/cover200/k472030698_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7094855"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 86,
+                "baseWeekRank": 43,
+                "pastWeekRank": 129,
+                "bookname": "윗집 부부 :황보름 장편소설 ",
+                "authors": "지은이: 황보름",
+                "publisher": "클레이하우스",
+                "publication_year": "2026",
+                "isbn13": "9791193235966",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/39532/5/cover200/k602139634_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7279843"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 79,
+                "baseWeekRank": 93,
+                "pastWeekRank": 172,
+                "bookname": "한국사 이상현상 연구원 :최인서 소설 ",
+                "authors": "지은이: 최인서",
+                "publisher": "빅피시",
+                "publication_year": "2026",
+                "isbn13": "9791124137635",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/40090/97/cover200/k962130440_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=7316990"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 74,
+                "baseWeekRank": 69,
+                "pastWeekRank": 143,
+                "bookname": "밝은 밤 :최은영 장편소설 ",
+                "authors": "지은이: 최은영",
+                "publisher": "문학동네",
+                "publication_year": "2021",
+                "isbn13": "9788954681179",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/27541/91/cover/8954681174_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6045915"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "result": {
+          "date": "2026-10-23",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 131,
+                "baseWeekRank": 57,
+                "pastWeekRank": 188,
+                "bookname": "이 지랄맞음이 쌓여 축제가 되겠지 :조승리 에세이 ",
+                "authors": "글: 조승리",
+                "publisher": "달 출판사",
+                "publication_year": "2024",
+                "isbn13": "9791158161767",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "818",
+                "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+                "bookImageURL": "https://image.aladin.co.kr/product/33696/25/cover/k962939047_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6854342"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 120,
+                "baseWeekRank": 90,
+                "pastWeekRank": 210,
+                "bookname": "에그박사 :Egg&bugs",
+                "authors": "원작: 에그박사 ;그림: 홍종현",
+                "publisher": "미래엔",
+                "publication_year": "2020",
+                "isbn13": "9791168417984",
+                "addition_symbol": "77490",
+                "vol": "12",
+                "class_no": "472",
+                "class_nm": "자연과학 > 생물과학 > 생물학",
+                "bookImageURL": "https://image.aladin.co.kr/product/33707/53/cover/k032939342_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6855482"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 99,
+                "baseWeekRank": 63,
+                "pastWeekRank": 162,
+                "bookname": "흔한남매 과학 탐험대",
+                "authors": "원작: 흔한남매 ;임혜영",
+                "publisher": "김영사",
+                "publication_year": "2021",
+                "isbn13": "9788934980254",
+                "addition_symbol": "77400",
+                "vol": "2",
+                "class_no": "400",
+                "class_nm": "자연과학 > 자연과학 > 자연과학",
+                "bookImageURL": "https://image.aladin.co.kr/product/27876/47/cover/8934980257_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6086449"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 71,
+                "baseWeekRank": 56,
+                "pastWeekRank": 127,
+                "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+                "authors": "지은이: 정유정",
+                "publisher": "은행나무",
+                "publication_year": "2016",
+                "isbn13": "9788956609959",
+                "addition_symbol": "03810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "http://image.aladin.co.kr/product/7492/9/cover/8956609950_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=3151708"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 70,
+                "baseWeekRank": 59,
+                "pastWeekRank": 129,
+                "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+                "authors": "요한 하리 지음 ;김하현 옮김",
+                "publisher": "어크로스(어크로스출판그룹)",
+                "publication_year": "2023",
+                "isbn13": "9791167740984",
+                "addition_symbol": "03180",
+                "vol": "",
+                "class_no": "181.27",
+                "class_nm": "철학 > 심리학 > 각론",
+                "bookImageURL": "https://image.aladin.co.kr/product/31559/97/cover/k682832859_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6682845"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

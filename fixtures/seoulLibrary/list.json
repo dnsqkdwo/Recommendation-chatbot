@@ -1,0 +1,101 @@
+{
+  "SeoulLibNewArrivalInfo": {
+    "list_total_count": 6997,
+    "RESULT": {
+      "CODE": "INFO-000",
+      "MESSAGE": "정상 처리되었습니다"
+    },
+    "row": [
+      {
+        "TITLE": "참외가 통통통 :한얼 그림책",
+        "AUTHOR": "한얼 글·그림",
+        "PUBLISHER": "미세기",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "은혜와 행함 사이에서 :마태복음이 말하는 하나님 나라 백성의 삶",
+        "AUTHOR": "유재현 지음",
+        "PUBLISHER": "CLC(기독교문서선교회)",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "나르치스와 골드문트",
+        "AUTHOR": "헤르만 헤세 지음",
+        "PUBLISHER": "문예출판사",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "여전히 읽고 있는 당신에게 :밀리의서재가 만난 '읽는 사람' 이야기",
+        "AUTHOR": "밀리의서재 지음",
+        "PUBLISHER": "Originals: Kt 밀리의서재",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "취미는 수학 :어려워 보이지만 기분 좋게 풀리는 도형 퍼즐",
+        "AUTHOR": "마사시 지음",
+        "PUBLISHER": "한빛라이프",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "쏘쿨의 구축명품 아파트 내집마련 :무주택자를 위한 마지막 기회! 전세 난민 월세 노예에서 해방되는 법",
+        "AUTHOR": "쏘쿨 지음",
+        "PUBLISHER": "진서원",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "쓴맛 :무엇을 먹지 말아야 하는가? : 五味사이언스 쓴맛과학",
+        "AUTHOR": "최낙언 지음",
+        "PUBLISHER": "헬스레터 : 에이치링크",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "팔로우 오사카·교토·고베·나라 :2027 최신 개정판 .[4] ,본섬(나하ㆍ차탄)ㆍ케라마ㆍ미야코 =Follow Osaka·Kyoto·Kobe·Nara",
+        "AUTHOR": "제이민 지음",
+        "PUBLISHER": "Travelike(트래블라이크)",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "팔로우 오사카·교토·고베·나라 :2027 최신 개정판 .2 ,오사카ㆍ히메지성ㆍ고베 =Follow Osaka·Kyoto·Kobe·Nara",
+        "AUTHOR": "제이민 지음",
+        "PUBLISHER": "Travelike(트래블라이크)",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      },
+      {
+        "TITLE": "팔로우 오사카·교토·고베·나라 :2027 최신 개정판 .3 ,교토ㆍ우지ㆍ나라ㆍ오하라 =Follow Osaka·Kyoto·Kobe·Nara",
+        "AUTHOR": "제이민 지음",
+        "PUBLISHER": "Travelike(트래블라이크)",
+        "PUBLISHER_YEAR": "2026",
+        "TYPE": "단행본",
+        "LOCA": "서울도서관",
+        "INDT": "20261008"
+      }
+    ]
+  }
+}

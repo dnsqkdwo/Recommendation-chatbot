@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<error>
+			<msg>INVALID KEY:인증키값이 유효하지 않습니다.</msg>
+			<error_code>011</error_code>
+		</error>
+	
