@@ -1,5 +1,6 @@
 # agent-openplay
 
+
 평일 오후 5시(KST)에 Mattermost 채널로 **오늘의 문화 추천**(영화·공연·행사·서적 각 1건)을 보내는 봇입니다.
 공공 Open API에서 후보를 모아 분야별로 1건씩 고르고, 소개글을 LLM(OpenRouter)으로 요약해 메시지를 만듭니다.
 
