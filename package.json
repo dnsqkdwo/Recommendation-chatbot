@@ -1,0 +1,29 @@
+{
+  "name": "recommendation-chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "yarn@4.18.1+sha512.b2e1e7524f654f2749d32b4ebcb4622473cb5bcbc485df2007e12a154e50162a4d795526768bc5f5b8f81717bfd79deb2472813d86fb5ae2eb551fa9c872b08f",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "tsx --env-file=.env src/index.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p .",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "env:check": "tsx --env-file=.env scripts/envCheck.ts",
+    "smoke": "tsx --env-file=.env scripts/smoke.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "tsx": "^4.23.15",
+    "typescript": "^7",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.3"
+  }
+}
